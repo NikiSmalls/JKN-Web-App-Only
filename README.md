@@ -1,6 +1,6 @@
 # Jknsolutions_web app
- Group Three: Web app only
- COMP 6906: Cloud Technologies
+- Group Three: Web app only
+- COMP 6906: Cloud Technologies
  
  ## Members
 - Nikita Louison

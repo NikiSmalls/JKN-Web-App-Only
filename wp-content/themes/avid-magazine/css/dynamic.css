@@ -1,0 +1,42 @@
+body{ font: 300 15px/22px Roboto Slab; color: #333333; }
+header .logo img{ height: 80px; }
+header .logo h1{ font-size: 40px; font-family: Oswald; }
+section.top-bar{padding: 60px 0;}
+header .logo h1, header .logo h2{color: #ffffff !important;}
+
+
+h1{ font: 400 32px Roboto Condensed }
+h2{ font: 400 28px Roboto Condensed }
+h3{ font: 400 18px Roboto Condensed }
+h4{ font: 400 18px Roboto Condensed }
+h5{ font: 300 15px Roboto Slab }
+h6{ font: 300 12px Roboto Slab }
+
+.navbar-nav > li > a {color: #ffffff;}
+
+header .main-nav{background-color: #278728;}                
+footer.main{background-color: #ececec;}
+
+
+/* Primary Colors */
+header .navbar-nav .dropdown-menu > li > a:hover{color: #1d2028;}
+.pri-bg-color,.navbar-nav > .active > a,.navbar-nav > .active > a, .navbar-nav > .active > a:hover,.current-menu-parent,h5.widget-title:after, .section-heading:after{background-color: #1d2028;}
+
+/* Secondary Colors */
+a,a:visited,a.readmore,button.loadmore{color: #278728;}
+
+/*Heading Title*/
+h1,h2,h3,h4,h5,h6{color: #333333;}
+
+/*Heading Link*/
+h2 a, h3 a, h4 a,h2 a:visited, h3 a:visited, h4 a:visited{color: #278728;}
+
+
+/*buttons*/
+header .search-submit,.widget .profile-link,
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt,
+.woocommerce button.button.alt, .woocommerce input.button.alt,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button,
+.woocommerce input.button,form#wte_enquiry_contact_form input#enquiry_submit_button,#blossomthemes-email-newsletter-626 input.subscribe-submit-626,
+.jetpack_subscription_widget,.widget_search,.search-submit,.widget-instagram .owl-carousel .owl-nav .owl-prev,
+.widget-instagram .owl-carousel .owl-nav .owl-next,.widget_search input.search-submit,.featured-layout  h6.category a
+{background-color: #278728;}
